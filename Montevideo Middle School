@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Montevideo Middle School - Contact Work & Schedules</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 20px;
+      line-height: 1.5;
+      background-color: #f9f9f9;
+      color: #333;
+    }
+    h1, h2, h3 {
+      color: #0056b3;
+    }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      margin-bottom: 30px;
+    }
+    th, td {
+      border: 1px solid #ccc;
+      padding: 8px 12px;
+      text-align: left;
+    }
+    th {
+      background-color: #0056b3;
+      color: white;
+    }
+    section {
+      margin-bottom: 40px;
+      background-color: white;
+      padding: 20px;
+      border-radius: 8px;
+      box-shadow: 0 0 8px rgba(0,0,0,0.1);
+    }
+    ul.locations-list {
+      list-style: none;
+      padding-left: 0;
+    }
+    ul.locations-list li {
+      margin-bottom: 8px;
+    }
+    .map-placeholder {
+      width: 100%;
+      height: 480px;
+      background-color: #ddd;
+      border: 2px dashed #aaa;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: #666;
+      font-style: italic;
+      margin-bottom: 30px;
+      user-select: none;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Montevideo Middle School - Contact Work & 2025–2026 Schedules</h1>
+    <p>Locations for contact work, activities, and middle school volleyball & cross country schedules.</p>
+  </header>
+
+  <section>
+    <h2>📍 Contact Work Locations & Hours</h2>
+    <ul class="locations-list">
+      <li><strong>Mr. J's Bagels & Deli</strong> (Harrisonburg) – Monday through Friday 5:30 AM – 3:00 PM; Weekends 6:00 AM – 3:00 PM.</li>
+      <li><strong>Cook Out</strong> (1688 E Market St, Harrisonburg) – Sunday through Thursday 10:30 AM – 3:00 AM (next day); Friday & Saturday 10:30 AM – 4:00 AM (next day).</li>
+      <li><strong>Rockingham Park at the Crossroads</strong> – Open daily from sunrise to one hour before sundown (may vary for special events or weather).</li>
+      <li><strong>Moxie33 Coffee Co.</strong> (McGaheysville near Harrisonburg) – Tuesday through Friday ~6:30 AM – 4:00 PM; Saturday 8:00 AM – 2:00 PM; closed Sunday & Monday.</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>🗺️ Contact Work Map</h2>
+    <div class="map-placeholder">
+      <iframe
+        src="https://www.google.com/maps/d/u/0/embed?mid=1IpmDYcJKGqZYMQb_hycNykmNZVzMgkFG&ehbc=2E312F"
+        width="640"
+        height="480"
+        style="border:0;"
+        allowfullscreen=""
+        loading="lazy"
+        referrerpolicy="no-referrer-when-downgrade"
+      ></iframe>
+    </div>
+  </section>
+
+  <section>
+    <h2>🏈 Spotswood High School Varsity Football Schedule (2025–2026)</h2>
+    <table>
+      <thead>
+        <tr><th>Date</th><th>Opponent</th><th>Location</th><th>Time</th></tr>
+      </thead>
+      <tbody>
+        <tr><td>Aug 28, 2025</td><td>Central High School</td><td>Home (Spotswood HS)</td><td>7:00 PM</td></tr>
+        <tr><td>Sep 5, 2025</td><td>Waynesboro</td><td>Away</td><td>7:00 PM</td></tr>
+        <tr><td>Sep 12, 2025</td><td>Wilson Memorial</td><td>Home (Spotswood HS)</td><td>7:00 PM</td></tr>
+        <tr><td>Sep 19, 2025</td><td>William Monroe</td><td>Away</td><td>7:00 PM</td></tr>
+        <tr><td>Sep 26, 2025</td><td>Rockbridge County</td><td>Home (Spotswood HS)</td><td>7:00 PM</td></tr>
+        <tr><td>Oct 3, 2025</td><td>Lord Botetourt</td><td>Away</td><td>7:00 PM</td></tr>
+        <tr><td>Oct 10, 2025</td><td>Massanutten Military Academy</td><td>Home (Spotswood HS)</td><td>7:00 PM</td></tr>
+        <tr><td>Oct 17, 2025</td><td>Augusta County</td><td>Away</td><td>7:00 PM</td></tr>
+        <tr><td>Oct 24, 2025</td><td>Staunton</td><td>Home (Spotswood HS)</td><td>7:00 PM</td></tr>
+        <tr><td>Oct 31, 2025</td><td>Broadway</td><td>Away</td><td>7:00 PM</td></tr>
+      </tbody>
+    </table>
+  </section>
+
+  <section>
+    <h2>🏐 Montevideo Middle School 2025–2026 Volleyball</h2>
+
+    <h3>Tryouts / Early Info</h3>
+    <p>2025 Volleyball tryouts will be Monday, August 18th and Tuesday, August 19th from 3:30 PM to 5:30 PM in the MMS Main Gym. Coach: Tabitha Dillon.</p>
+
+    <h3>Varsity Schedule</h3>
+    <table>
+      <thead>
+        <tr><th>Date</th><th>Opponent</th><th>Location</th><th>Time</th></tr>
+      </thead>
+      <tbody>
+        <tr><td>Aug 25, 2025</td><td>Opponent TBD</td><td>Home (MMS)</td><td>7:00 PM</td></tr>
+        <tr><td>Aug 28, 2025</td><td>Opponent TBD</td><td>Away</td><td>7:00 PM</td></tr>
+        <tr><td>Sep 2, 2025</td><td>Opponent TBD</td><td>Home (MMS)</td><td>7:00 PM</td></tr>
+        <tr><td>Sep 9, 2025</td><td>Opponent TBD</td><td>Away</td><td>7:00 PM</td></tr>
+        <tr><td>Sep 16, 2025</td><td>Opponent TBD</td><td>Home (MMS)</td><td>7:00 PM</td></tr>
+      </tbody>
+    </table>
+
+    <h3>Junior Varsity (JV) Schedule</h3>
+    <table>
+      <thead>
+        <tr><th>Date</th><th>Opponent</th><th>Location</th><th>Time</th></tr>
+      </thead>
+      <tbody>
+        <tr><td>Aug 25, 2025</td><td>Opponent TBD</td><td>Home (MMS)</td><td>6:00 PM</td></tr>
+        <tr><td>Sep 1, 2025</td><td>Opponent TBD</td><td>Away</td><td>6:00 PM</td></tr>
+        <tr><td>Sep 8, 2025</td><td>Opponent TBD</td><td>Home (MMS)</td><td>6:00 PM</td></tr>
+        <tr><td>Sep 15, 2025</td><td>Opponent TBD</td><td>Away</td><td>6:00 PM</td></tr>
+      </tbody>
+    </table>
+  </section>
+
+  <section>
+    <h2>🏃 Montevideo Middle School 2025–2026 Cross Country</h2>
+
+    <h3>Preseason / Practice</h3>
+    <p>Practice begins Monday, August 18, 2025. There will be a brief Parent/Athlete meeting at 3:00 PM in the Auditorium, with practice to follow. Regular practices run Monday through Thursday.</p>
+
+    <h3>Schedule Overview</h3>
+    <table>
+      <thead>
+        <tr><th>Week</th><th>Activity</th><th>Notes</th></tr>
+      </thead>
+      <tbody>
+        <tr><td>Aug 18–21, 2025</td><td>Preseason Practice & Parent/Athlete Meeting</td><td>Meeting at 3:00 PM, practice after</td></tr>
+        <tr><td>Aug 25–28, 2025</td><td>Regular Practices</td><td>Monday–Thursday after school</td></tr>
+        <tr><td>Early September 2025</td><td>First Meets (TBD)</td><td>Opponents and locations to be posted by coaching staff</td></tr>
+      </tbody>
+    </table>
+  </section>
+
+</body>
+</html>
